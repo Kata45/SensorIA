@@ -29,41 +29,8 @@ La estructura separa claramente:
 
 ```
 
-SensorIA/
-│
-├── frontend/
-│   ├── mobile_app/
-│   │   ├── lib/
-│   │   ├── assets/
-│   │   ├── pubspec.yaml
-│   │   └── main.dart
-│   │
-│   └── web_admin/
-│       ├── src/
-│       ├── public/
-│       └── package.json
-│
-├── backend/
-│   ├── app/
-│   │   ├── controllers/
-│   │   ├── services/
-│   │   ├── models/
-│   │   └── routes/
-│   │
-│   ├── config/
-│   ├── Dockerfile
-│   └── requirements.txt
-│
-├── database/
-│   ├── migrations/
-│   └── schema.sql
-│
-├── docs/
-│   └── arquitectura.md
-│
-├── .env.example
-├── docker-compose.yml
-└── README.md
+<img width="387" height="751" alt="image" src="https://github.com/user-attachments/assets/e110f452-ad92-442c-bf2f-2ecd179d8c13" />
+
 
 ```
 
