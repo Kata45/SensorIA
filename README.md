@@ -291,10 +291,11 @@ Esta estructura permite:
 <div align="center">
 <h1> 🔗 Repositorio del Proyecto </h1>
 </div>
+
 ```
 https://github.com/usuario/sensorIA
 ```
 
 ---
-##### © **2025** Creado por *Kata* — Todos los derechos reservados.
+##### © **2026** Creado por *Grupo SensorIA* — Todos los derechos reservados.
 ---
