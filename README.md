@@ -6,4 +6,11 @@ archivo1
 
 
 AAAAAAAAAAAAAAA
-5656
+5656 juas juasjuas
+
+
+
+no entiendo ni mierdaaa
+
+
+dos
