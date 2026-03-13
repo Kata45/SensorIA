@@ -3,16 +3,16 @@
 ---
 
 <div align="center">
-
 <h1> SensorIA </h1>
+</div>
 
 Plataforma digital para la **gestión inteligente de residuos utilizando Inteligencia Artificial e IoT**, desarrollada para apoyar la correcta clasificación de residuos dentro del **SENA – Centro de Biotecnología Agropecuaria (CBA) Mosquera**.
 
 ---
 
 <div align="center">
-
 <h1> ☝🏻 Estructura </h1>
+</div>
 
 La estructura separa claramente:
 
@@ -24,8 +24,8 @@ La estructura separa claramente:
 ---
 
 <div align="center">
-
 <h1> 📁 Estructura inicial del proyecto </h1>
+</div>
 
 ```
 
@@ -70,8 +70,8 @@ SensorIA/
 ---
 
 <div align="center">
-
 <h1> 📄 Archivo `.env.example` </h1>
+</div>
 
 Este archivo contiene un ejemplo de las variables de entorno necesarias para ejecutar el sistema.
 
@@ -92,8 +92,8 @@ JWT_SECRET=your_secret_key
 ---
 
 <div align="center">
-
 <h1> ⚙️ Configuración inicial de dependencias </h1>
+</div>
 
 ### Frontend (Flutter)
 
@@ -128,8 +128,8 @@ python manage.py runserver
 ---
 
 <div align="center">
-
 <h1> 🖥 Evidencia </h1>
+</div>
 
 ### Árbol de carpetas
 
@@ -156,8 +156,8 @@ La aplicación se ejecuta en:
 ---
 
 <div align="center">
-
 <h1> 📦 Nombre del repositorio </h1>
+</div>
 
 ```
 sensorIA
@@ -169,8 +169,8 @@ Repositorio principal del proyecto donde se almacena todo el código fuente, doc
 
 
 <div align="center">
-
 <h1> 🌿 Ramas principales </h1>
+</div>
 
 Se definieron las siguientes ramas para el desarrollo:
 
@@ -192,8 +192,8 @@ fix/authentication
 ---
 
 <div align="center">
-
 <h1> 📝 Convención de nombres </h1>
+</div>
 
 Para mantener consistencia en el código se definieron las siguientes reglas:
 
@@ -245,8 +245,8 @@ recyclingRecord
 ---
 
 <div align="center">
-
 <h1> 📂 Organización de carpetas </h1>
+</div>
 
 La organización del repositorio sigue una arquitectura modular:
 
@@ -276,22 +276,21 @@ Esta estructura permite:
 ---
 
 <div align="center">
-
 <h1> 👨‍💻 Responsables del equipo </h1>
+</div>
 
 | Integrante     | Rol                                |
 | -------------- | ---------------------------------- |
 | Daniel Muñoz   | Desarrollo Backend                 |
 | Yeisson Romero | Desarrollo Backend / Base de Datos |
-| Sarah González | Desarrollo Frontend                |
-| Camila Rivera  | Diseño UI / Documentación          |
+| Sarah González | Desarrollo Frontend /  Diseño UI / Documentación |
+| Camila Rivera  | Desarrollo Backend / Base de Datos |
 
 ---
 
 <div align="center">
-
 <h1> 🔗 Repositorio del Proyecto </h1>
-
+</div>
 ```
 https://github.com/usuario/sensorIA
 ```
